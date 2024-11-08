@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-   <img src="https://github.com/user-attachments/assets/ad4d553c-a577-4fed-a5d6-8bbba678c916.png" width="100px" height="100px" />
+   <img src="![Postman - Postman Flows - Beginner - 2024-10-27 (1)](https://github.com/user-attachments/assets/e46eccd4-a41a-4528-a116-ccf987716660)
+" width="100px" height="100px" />
 
  </a>
 </div>
