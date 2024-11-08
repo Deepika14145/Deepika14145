@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
    <img src="https://github.com/user-attachments/assets/e46eccd4-a41a-4528-a116-ccf987716660" width="100px" height="100px" />
-     <img src="   https://github.com/users/Deepika14145/achievements/pull-shark" width="100px" height="100px" />
 
  </a>
 </div>
