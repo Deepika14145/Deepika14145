@@ -10,9 +10,9 @@
 Deepika14145/Deepika14145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<details>	
-<a>
+
  <div>
+  <a>
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
  </a>
 </div>
-</details>
+
