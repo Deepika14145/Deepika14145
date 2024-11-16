@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=deepikasharma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Mastan  (21)](https://github.com/user-attachments/assets/bdbc23f0-17df-4f72-986d-dee9afcf18bd)
+<!-- ![Mastan  (21)](https://github.com/user-attachments/assets/bdbc23f0-17df-4f72-986d-dee9afcf18bd) -->
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/deepika-sharma-3b7348219/">Deepika Sharma</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
@@ -12,7 +12,7 @@
 - 📫 Reach Me At: [sharmadeepi200@gmail.com](mailto:sharmadeepi200@gmail.com) <br>
 - ⚡ About Me: **#** <br>
 - 🌎 I Know English, Hindi, Marathi. <br>
-- 💎 Hard work + Smart + Quick Adaptation + Critical Thinking + Honesty <br>
+<!-- - 💎 Hard work + Smart + Quick Adaptation + Critical Thinking + Honesty <br> -->
 - 📍 **Location:** India <br>
 
 <br>
