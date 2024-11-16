@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/deepika-sharma-3b7348219/">Deepika Sharma</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-<img align="right" src="https://lottie.host/embed/8f64028c-ccd9-4e9c-87d2-0b95753b8e01/S4VfBDklab.json" alt="Profile Image" width="300"/>
+<img align="right" src="https://lottie.host/embed/8f64028c-ccd9-4e9c-87d2-0b95753b8e01/S4VfBDklab.jpg" alt="Profile Image" width="300"/>
 
 - 💬 Ask Me About: C++, Python, JAVA, SQL, Web Development, MongoDB, or anything. <br>
 - 📫 Reach Me At: [sharmadeepi200@gmail.com](mailto:sharmadeepi200@gmail.com) <br>
