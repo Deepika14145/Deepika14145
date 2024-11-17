@@ -1,6 +1,12 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Deepika14145&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Deepika14145&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/Deepika14145/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)</p>
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/deepika-sharma-3b7348219/">Deepika Sharma</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
@@ -65,35 +71,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>
-
-
-
-
-
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Deepika14145&style=for-the-badge">
-</a>
-
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=1849174)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
