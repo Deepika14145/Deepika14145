@@ -9,7 +9,7 @@
 
 - 💬 Ask Me About: C++, Python, JAVA, SQL, Web Development, MongoDB, or anything. <br>
 - 📫 Reach Me At: [sharmadeepi200@gmail.com](mailto:sharmadeepi200@gmail.com) <br>
-- ⚡ About Me: **#** <br>
+- ⚡ About Me: **#Focused** <br>
 - 🌎 I Know English, Hindi, Marathi. <br>
 - 📍 **Location:** India <br>
 
