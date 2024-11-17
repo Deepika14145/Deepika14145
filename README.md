@@ -1,5 +1,5 @@
 <p align="left">
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/Deepika14145/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Deepika14145&style=for-the-badge">
 </a>
 
