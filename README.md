@@ -44,7 +44,7 @@
 <br>
 
 ## HACKTOBERFEST(24) Badges 🪶
-<!--<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard"> -->
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <img src="https://github.com/user-attachments/assets/f60198ce-7afd-44bc-ae12-8be43b41316a.png" width="100px" height="100px" />
   </a>
 </div>
