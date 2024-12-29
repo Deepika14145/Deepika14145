@@ -45,7 +45,7 @@
 ## HACKTOBERFEST(24) Badges 🪶
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f60198ce-7afd-44bc-ae12-8be43b41316a.png" alt="Hacktoberfest Badge" width="100" height="100">
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQH4n4MftoySZA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730729717781?e=1738195200&v=beta&t=6JD4DIrGLFZ5GyWU9badzH7DuuFgFwCUYheRyLJboik.png" alt="Hacktoberfest Badge" width="100" height="100">
 </p>
 </br>
 </br>
