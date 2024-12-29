@@ -42,14 +42,13 @@
 
 <br>
 <br>
-
 ## HACKTOBERFEST(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://github.com/user-attachments/assets/f60198ce-7afd-44bc-ae12-8be43b41316a.png" width="100px" height="100px" />
-  </a>
-</div>
-<br>
-<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f60198ce-7afd-44bc-ae12-8be43b41316a.png" alt="Hacktoberfest Badge" width="100" height="100">
+</p>
+</br>
+</br>
 
 <details><summary>🚀 Open Source Contributions:</summary>
   <br>
