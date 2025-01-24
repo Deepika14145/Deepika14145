@@ -40,15 +40,6 @@
 <br>
 <br>
 
-<br>
-<br>
-## HACKTOBERFEST(24) Badges 🪶
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c210c3a5-7982-4924-a2ba-99ca6e53b0b7.png" alt="Hacktoberfest Badge" width="100" height="100">
-</p>
-</br>
-</br>
 
 <details><summary>🚀 Open Source Contributions:</summary>
   <br>
