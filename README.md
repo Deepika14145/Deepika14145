@@ -13,7 +13,7 @@
 <!-- <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" -width="300"/> -->
 <img align="right" src="https://github.com/user-attachments/assets/bf47981e-ff55-4aed-8543-214a79d11cca" alt="Profile Image" width="300"/>
 
-- 💬 Ask Me About: C++, Python, JAVA, SQL, Web Development, MongoDB, or anything. <br>
+- 💬 Ask Me About: C++, Python, JAVA, SQL, Web Development, or anything. <br>
 - 📫 Reach Me At: [sharmadeepi200@gmail.com](mailto:sharmadeepi200@gmail.com) <br>
 - ⚡ About Me: **#Focused** <br>
 - 🌎 I Know English, Hindi, Marathi. <br>
