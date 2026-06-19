@@ -26,8 +26,6 @@ I’m a focused software engineer and open-source contributor working across web
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Deepika14145&theme=github" alt="Contributions Graph" />
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika14145&theme=radical" alt="Streak stats" />
 </p>
 
