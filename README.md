@@ -2,10 +2,7 @@
   <a href="https://github.com/Deepika14145/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Deepika14145&style=for-the-badge" alt="Profile views"/>
   </a>
-  &nbsp;
-  <a href="https://yhype.me">Ÿ HŸPE</a>
-  &nbsp;
-  <a href="https://github.com/Deepika14145/github-profile-views-counter">Profile Views Counter</a>
+  
   <br/>
   <img src="https://hit.yhype.me/github/profile?user_id=1849174" alt="yhype hits"/>
 </p>
