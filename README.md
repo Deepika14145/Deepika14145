@@ -28,7 +28,7 @@ I’m a focused software engineer and open-source contributor working across web
 
 ---
 
-## Featured Projects (selected from your public repos)
+## Featured Projects
 - **QuickFactChecker** — Jupyter notebooks and tools for quick fact checking and analysis. (stars: 8, forks: 33)  
   Repo: https://github.com/Deepika14145/QuickFactChecker
 - **Intervirew_prep** — JavaScript-based interview prep resources and live demos. (stars: 2)  
