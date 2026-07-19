@@ -9,7 +9,7 @@
 
 # Hi there, I'm Deepika Sharma 👋
 [LinkedIn](https://www.linkedin.com/in/deepika-sharma-3b7348219/) · sharmadeepi200@gmail.com  
-Location: India · Languages: English, Hindi, Marathi
+
 
 I’m a focused software engineer and open-source contributor working across web development, machine learning, and algorithmic projects. I love building practical tools, improving UX, and contributing to community programs like GSSoC.
 
