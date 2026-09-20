@@ -2,8 +2,6 @@
 
 # Deepika Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=980&lines=Engineering+AI-powered+products+across+ML%2C+computer+vision%2C+and+full-stack+systems;Building+from+model+experiments+to+real+interfaces+and+deployable+apps;Exploring+developer+tools%2C+algorithms%2C+and+open-source+collaboration" alt="Typing intro" />
-
 <p>
   <a href="https://github.com/Deepika14145"><img src="https://img.shields.io/badge/GitHub-Deepika14145-0D1117?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/deepika-sharma-3b7348219/"><img src="https://img.shields.io/badge/LinkedIn-Deepika%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
